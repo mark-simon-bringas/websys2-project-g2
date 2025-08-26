@@ -1,6 +1,6 @@
 # WEBSYS2 Project Group 2
 
-*Instructor: * <br>
+*Instructor:* <br>
 - Sagorsor, Henson M.
 
 *Members:* <br>
